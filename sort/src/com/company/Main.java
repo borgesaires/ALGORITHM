@@ -21,7 +21,7 @@ public class Main {
 
         //T.ShellSort(arr);
 
-        T.RadixSort(arr);
+        //T.RadixSort(arr);
     }
 }
 
